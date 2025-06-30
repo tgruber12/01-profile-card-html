@@ -1,0 +1,47 @@
+body {
+  background-color: #FFF7CC; /* butter yellow */
+  font-family: 'Roboto', Arial, sans-serif;
+}
+
+.profile-card {
+  max-width: 350px;
+  margin: 60px auto;
+  padding: 32px 24px;
+  background: #fff;
+  border: 2px solid #E6D8B2;
+  border-radius: 18px;
+  box-shadow: 0 2px 8px rgba(75, 46, 5, 0.06);
+}
+
+
+
+h1, h2 {
+  text-align: center;
+}
+
+h1 {
+  font-size: 48px;
+  color: #4B2E05; /* dark brown */
+}
+
+h2 {
+  font-size: 32px;
+  color: #228B22; /* forest green */
+}
+
+p {
+  font-size: 20px;
+  line-height: 1.7;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 24px 0 0 0;
+  text-align: center;
+}
+
+ul li {
+  margin-bottom: 12px;
+}
